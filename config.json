@@ -1,0 +1,10 @@
+{
+    "serpapi_key": "72593b5b010d8009bc594b31b094cf0fcde94a4714372e64f78eb6a7f3e5172a",
+    "default_num_products": 5,
+    "sites": ["amazon.in", "flipkart.com", "reliancedigital.in", "snapdeal.com"],
+    "weights": {
+        "price": 0.4,
+        "rating": 0.4,
+        "reviews": 0.2
+    }
+}
